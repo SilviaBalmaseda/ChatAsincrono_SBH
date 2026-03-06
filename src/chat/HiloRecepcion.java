@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * Hilo encargado de recibir los datos y mostrarlos por pantalla.
- * @autor: Silvia Balmaseda Hernández
+ * @author Silvia Balmaseda Hernández
  */
 public class HiloRecepcion implements Runnable {
     private DataInputStream entrada;

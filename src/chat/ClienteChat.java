@@ -5,7 +5,7 @@ import java.net.*;
 
 /**
  * Clase principal que ejecuta el cliente del chat.
- * @autor: Silvia Balmaseda Hernández
+ * @author Silvia Balmaseda Hernández
  */
 public class ClienteChat {
     public static void main(String[] args) {

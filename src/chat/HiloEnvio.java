@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * Hilo encargado de leer de teclado y enviar los datos.
- * @autor: Silvia Balmaseda Hernández
+ * @author Silvia Balmaseda Hernández
  */
 public class HiloEnvio implements Runnable {
     private DataOutputStream salida;
